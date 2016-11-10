@@ -1,6 +1,7 @@
 Hello
 Sir
 Bye
+<<<<<<< HEAD
 Hey
 I moved your sentence down to line 6
 Tayyab was here doing
